@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Request Concurrency",
+    "description": "Global FIFO queue capping concurrent model requests across sessions, subagents and workflows."
+  }
+}
